@@ -1,5 +1,7 @@
-#   USECASE-2 (Integration GIT,Maven,Jenkins & Tomcat)
-
+#   USECASE-3 (Integration GIT,Maven,Jenkins , Docker, Tomcat)
+ 
+ Please watch usecase-2 before come here
+ 
 # What you will be learn this usecase :
 
 As IT employees we work on many areas ( coding,support,infrastructure ) but while onboarding any new service we really are not aware how exactly code will deploy to production . There  are many possibilities  we can onboard our requirements to production .This use case will explain one of the ways to deploy our code to prod. 
